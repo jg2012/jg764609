@@ -1,9 +1,11 @@
-### :bear: Welcome :bear:
+## :bear: Welcome :bear:
 
 My name is Jose Guzman and my pronouns are He/Him/His.   
 
 I am currently attending a Backend Software Development Bootcamp through Promineo Tech. I have 10+ years of experience in I.T., working in various Helpdesk and Desktop support roles in higher education and tech. I decided to expand my skill set by starting the BackEnd Bootcamp this summer. I am currently working on learning Java. I'm excited to learn and grow from this experience.
 
+#### :globe_with_meridians: Where you can find me? 
+<a href="https://www.linkedin.com/in/jose-guzman-jr/"> LinkedIn </a>
 
 <!--
 **jg764609/jg764609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
