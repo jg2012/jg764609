@@ -2,7 +2,7 @@
 
 My name is Jose Guzman and my pronouns are He/Him/His.   
 
-I am currently attending a Backend Software Development Bootcamp through Promineo Tech. I have 10+ years of experience in I.T., working in various Helpdesk and Desktop support roles in higher education and tech. I decided to expand my skill set by starting the BackEnd Bootcamp this summer. I am currently working on learning Java. I'm excited to learn and grow from this experience.
+I recently graduated from a Backend Software Development and Data Engineering Bootcamp through Promineo Tech. I have 10+ years of experience in I.T., working in various Helpdesk and Desktop support roles in higher education and tech. I decided to expand my skillset with my BackEnd Bootcamp this and Data Engineering bootcamps.
 
 #### :globe_with_meridians: Find me on LinkedIn 
 <a href="https://www.linkedin.com/in/jose-guzman-jr/"> LinkedIn </a>
