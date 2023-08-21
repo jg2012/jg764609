@@ -8,7 +8,7 @@ I recently graduated from a Backend Software Development and Data Engineering Bo
 <a href="https://www.linkedin.com/in/jose-guzman-jr/"> LinkedIn </a>
 
 <!--
-**jg764609/jg764609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jg2012/jg2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
